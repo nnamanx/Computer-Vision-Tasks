@@ -1,0 +1,8 @@
+## Task: 
+
+•Try to load 2 grayscale images and perform addition and averaging operation on these two images
+
+•You can run this experiment with two types of images:
+–When the objects on the image do not overlap
+        an object on one image is in the right, and on the second is in the left
+–Overlapping objects 
